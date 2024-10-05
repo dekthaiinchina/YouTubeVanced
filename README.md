@@ -7,14 +7,14 @@ To prevent users from installing apk files from outside, Google Play has now add
 ## *Download*
 
 ### *YouTubeVanced*
-[*FullVersion*](url)
+[*FullVersion*](https://github.com/dekthaiinchina/YouTubeVanced/releases/download/v19.39.37/FullVersion.apk)
 <br />
-[*LiteVersion*](url)
+[*LiteVersion*](https://github.com/dekthaiinchina/YouTubeVanced/releases/download/v19.39.37/LiteVersion.apk)
 
 ### *microGServices*
-[*GeneralVersion*](url)
+[*GeneralVersion*]()
 <br />
-[*HuaweiVersion*](url)
+[*HuaweiVersion*]()
 
 ### *How to Fix Buffering Bug*
 `Settings > Revanced Settings > Miscellaneous > Spoof Player Parameters and enable it and restart`

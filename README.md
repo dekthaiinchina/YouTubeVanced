@@ -4,11 +4,10 @@ Besides enjoying videos freely and without restriction, YouTube Vanced allows yo
 ### *Cautions*
 To prevent users from installing apk files from outside, Google Play has now added a warning when installing apks & mods. PlayProtect will tell you the file is harmful. Simply, just click “Install anyway (unsafe)”.
 
-## *Download*
-
-**How to Fix Buffering Bug**
-<br />
+### *How to Fix Buffering Bug*
 `Settings > Revanced Settings > Miscellaneous > Spoof Player Parameters and enable it and restart`
+
+## *Download*
 
 ### *YouTubeVanced (v19.40.33)*
 [*FullVersion*](https://github.com/dekthaiinchina/YouTubeVanced/releases/download/v19.40.33/com.vanced.android.youtube-194033.apk)

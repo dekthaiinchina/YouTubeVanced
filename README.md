@@ -6,6 +6,10 @@ To prevent users from installing apk files from outside, Google Play has now add
 
 ## *Download*
 
+**How to Fix Buffering Bug**
+<br />
+`Settings > Revanced Settings > Miscellaneous > Spoof Player Parameters and enable it and restart`
+
 ### *YouTubeVanced (v19.40.33)*
 [*FullVersion*](https://github.com/dekthaiinchina/YouTubeVanced/releases/download/v19.40.33/com.vanced.android.youtube-194033.apk)
 <br />
@@ -15,6 +19,3 @@ To prevent users from installing apk files from outside, Google Play has now add
 [*GeneralVersion*](https://github.com/microg/GmsCore/releases/download/v0.3.3.240913/com.google.android.gms-240913006.apk)
 <br />
 [*HuaweiVersion*](https://github.com/microg/GmsCore/releases/download/v0.3.3.240913/com.google.android.gms-240913006-hw.apk)
-
-### *How to Fix Buffering Bug*
-`Settings > Revanced Settings > Miscellaneous > Spoof Player Parameters and enable it and restart`

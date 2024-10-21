@@ -10,11 +10,11 @@ To prevent users from installing apk files from outside, Google Play has now add
 ## *Download*
 
 ### *YouTubeVanced (v19.40.35)*
-[*FullVersion*](https://github.com/dekthaiinchina/YouTubeVanced/releases/download/v19.40.35/com.vanced.android.youtube-194035.apk)
+[*FullVersion*](https://github.com/dekthaiinchina/YouTubeVanced/releases/download/v19.40.35/com.android.youtube.vanced-194035.apk)
 <br />
-[*LiteVersion*](https://github.com/dekthaiinchina/YouTubeVanced/releases/download/v19.40.35/com.vanced.lite.android.youtube-194035.apk)
+[*LiteVersion*](https://github.com/dekthaiinchina/YouTubeVanced/releases/download/v19.40.35/com.android.youtube.vanced-194035-lite.apk)
 
-### *microGServices (v0.3.3.240913)*
-[*GeneralVersion*]()
+### *microGServices (v0.3.1.240913)*
+[*GeneralVersion*](https://github.com/dekthaiinchina/YouTubeVanced/releases/download/v19.40.35/com.google.android.gms-240913002.apk)
 <br />
-[*HuaweiVersion*]()
+[*HuaweiVersion*](https://github.com/dekthaiinchina/YouTubeVanced/releases/download/v19.40.35/com.google.android.gms-240913002-hw.apk)

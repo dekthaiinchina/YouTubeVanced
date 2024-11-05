@@ -17,4 +17,4 @@ To prevent users from installing apk files from outside, Google Play has now add
 ### *microGServices (v0.3.1.3.240913)*
 [*GeneralVersion*](https://github.com/dekthaiinchina/YouTubeVanced/releases/download/v1.0/com.google.android.gms-0313240913.apk)
 <br />
-[*HuaweiVersion*](https://github.com/dekthaiinchina/YouTubeVanced/releases/download/v1.0/com.google.android.gms-0313240913-hw.apk)
+[*HuaweiVersion*]()
